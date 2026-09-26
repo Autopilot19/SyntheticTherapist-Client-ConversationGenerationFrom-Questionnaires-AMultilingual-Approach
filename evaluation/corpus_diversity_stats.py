@@ -8,7 +8,7 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
 
 OUT_DIR = Path(
-    "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/evaluation"
+    ""
 )
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
