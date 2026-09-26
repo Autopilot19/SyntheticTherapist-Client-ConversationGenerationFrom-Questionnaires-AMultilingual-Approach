@@ -12,24 +12,24 @@ import google.generativeai as genai
 
 DIALOGUES = {
     "Control_40": {
-        "fr": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/french/synthetic_dialogue/gemma/control/dev/control40.txt",
-        "de": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/german/synthetic_dialogue/gemma/control/dev/control40.txt",
-        "ar": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/arabic/synthetic_dialogue/gemma/control/dev/control40.txt",
+        "fr": "",
+        "de": "",
+        "ar": "",
     },
     "Control_144": {
-        "fr": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/french/synthetic_dialogue/gemma/control/train/control144.txt",
-        "de": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/german/synthetic_dialogue/gemma/control/train/control144.txt",
-        "ar": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/arabic/synthetic_dialogue/gemma/control/train/control144.txt",
+        "fr": "",
+        "de": "",
+        "ar": "",
     },
     "Mdd_active_684": {
-        "fr": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/french/synthetic_dialogue/gemma/mdd/dev/mdd_active684.txt",
-        "de": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/german/synthetic_dialogue/gemma/mdd/dev/mdd_active684.txt",
-        "ar": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/arabic/synthetic_dialogue/gemma/mdd/dev/mdd_active684.txt",
+        "fr": "",
+        "de": "",
+        "ar": "",
     },
     "Mdd_active_25": {
-        "fr": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/french/synthetic_dialogue/gemma/mdd/train/mdd_active25.txt",
-        "de": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/german/synthetic_dialogue/gemma/mdd/train/mdd_active25.txt",
-        "ar": "/storage/ukp/work/boudabous/questionnaire2dialogue/translation_pipeline/arabic/synthetic_dialogue/gemma/mdd/train/mdd_active25.txt",
+        "fr": "",
+        "de": "",
+        "ar": "",
     },
 }
 
