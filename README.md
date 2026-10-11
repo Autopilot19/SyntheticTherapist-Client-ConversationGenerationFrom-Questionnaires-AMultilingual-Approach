@@ -1,4 +1,4 @@
-# Synthetic Therapist-Client Dialogues — Multilingual Approach
+# Synthetic Therapist-Client Dialogues - Multilingual Approach
 
 This repository contains the code used to generate multilingual therapist-client dialogues, fine-tune language models on the generated data, and evaluate the resulting models with automatic metrics and counseling-related benchmarks.
 
